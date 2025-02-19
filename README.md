@@ -8,14 +8,14 @@ Repository for Fullstack Open -course (part 12) organized by University of Helsi
 - [x] 12.2 Running your second container
 - [x] 12.3 Ubuntu 101
 - [x] 12.4 Ubuntu 102
-- [ ] 12.5 Containerizing a Node application
-- [ ] 12.6 Docker compose
-- [ ] 12.7 Little bit of MongoDB coding
-- [ ] 12.8 Mongo command-line interface
-- [ ] 12.9 Set up Redis for the project
-- [ ] 12.10
-- [ ] 12.11
-- [ ] 12.12 Persisting data in Redis
+- [x] 12.5 Containerizing a Node application
+- [x] 12.6 Docker compose
+- [x] 12.7 Little bit of MongoDB coding
+- [x] 12.8 Mongo command-line interface
+- [x] 12.9 Set up Redis for the project
+- [x] 12.10
+- [x] 12.11
+- [x] 12.12 Persisting data in Redis
 - [ ] 12.13 Todo application frontend
 - [ ] 12.14 Testing during the build process
 - [ ] 12.15 Set up a frontend development environment
