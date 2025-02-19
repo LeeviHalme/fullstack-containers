@@ -6,8 +6,8 @@ Repository for Fullstack Open -course (part 12) organized by University of Helsi
 
 - [x] 12.1 Using a computer (without graphical user interface)
 - [x] 12.2 Running your second container
-- [ ] 12.3 Ubuntu 101
-- [ ] 12.4 Ubuntu 102
+- [x] 12.3 Ubuntu 101
+- [x] 12.4 Ubuntu 102
 - [ ] 12.5 Containerizing a Node application
 - [ ] 12.6 Docker compose
 - [ ] 12.7 Little bit of MongoDB coding
